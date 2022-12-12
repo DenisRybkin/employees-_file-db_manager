@@ -1,0 +1,5 @@
+Employee {name_id = ("Rybkin Denis tt",1), departmentName_position = ("PSU","Programmer"), experience = 1, listEncouragement = ["test","test2"]}
+Employee {name_id = ("Savin Egor ee",2), departmentName_position = ("PSU","student"), experience = 38, listEncouragement = ["like","C++","hs"]}
+Employee {name_id = ("Shiberina Natasha",3), departmentName_position = ("PSU","student"), experience = 2, listEncouragement = []}
+Employee {name_id = ("Ysenko Polina Test",4), departmentName_position = ("TEST","student"), experience = 2, listEncouragement = ["nothing"]}
+Employee {name_id = ("Ysenko Polina Test",5), departmentName_position = ("PSU","student"), experience = 2, listEncouragement = ["nothing"]}
